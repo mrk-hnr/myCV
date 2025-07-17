@@ -24,14 +24,16 @@ _Based in the Philippines 🇵🇭_ <br>
   - Save - Desired colors can be saved.
 
     
-## 💼 Non-Dev Experience
+## 💻 Dev Experience
 
 _This section only accounts for work done pre-career change._
 
-**JR. CMS Developer** @ [PRIVATE] _(Mar 2023 - Present)_
+**JR. CMS Developer** @ PRIVATE _(Mar 2023 - Present)_
   - Manage and maintain multiple client sites and contents while maintainin upmost accuracy.
   - Develop tools used by different department within the company.
-  - Perform a thorough quality review of submitted application, ensures complete and accurate data entry of required/appropriate information into the company’s proprietary software program.
+    
+
+## 💼 Non-Dev Experience
 
 **Data Imaging Specialist II** @ [AMN Healthcare](https://www.amnhealthcare.com/) _(Aug 2017 - Aug 2024 )_
   - Ensures accurate data indexing of healthcare professional requirements and application information in a timely and efficient manner, while maintaining superior healthcare professional file presentation
